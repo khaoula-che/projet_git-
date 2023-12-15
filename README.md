@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 # projet_git- 
 MOUGNI Asma 
